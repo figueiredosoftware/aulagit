@@ -13,6 +13,9 @@ var teste2 = "teste";
 var teste3 = "teste";
 var teste4 = "teste4";
 
+//apenas um teste
+var teste5 = "teste5";
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
