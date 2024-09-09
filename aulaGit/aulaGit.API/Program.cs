@@ -9,6 +9,8 @@ var app = builder.Build();
 
 var teste = "teste";
 
+var teste2 = "teste";
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
