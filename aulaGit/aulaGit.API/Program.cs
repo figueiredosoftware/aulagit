@@ -19,6 +19,7 @@ var teste5 = "teste5";
 //apenas um teste
 var teste6 = "teste6";
 var teste7 = "teste7";
+var teste8 = "teste8";
 
 
 // Configure the HTTP request pipeline.
